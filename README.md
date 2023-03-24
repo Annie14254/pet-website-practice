@@ -6,7 +6,7 @@ A placeholder pet-sitting services website. The site uses dummy text (lorem) for
 
 ## Usage
 
-Access the deployed site at Annie14254.github.io/pet-website-practice. Use the console to view semantic HTML elements and class tags.
+Access the deployed site at (placeholder). Use the console to view semantic HTML elements and class tags.
 
 ## Installation
 
